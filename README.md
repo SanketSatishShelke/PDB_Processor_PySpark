@@ -15,8 +15,10 @@ Primarily used for structural analysis, computational modeling, and machine lear
 Experimental Metadata (JSON format):**
 
 **Includes key information such as resolution, R-free, R-factor, deposition date, and experimental method.
-Designed for efficient querying, facilitating large-scale statistical analysis, metadata filtering, and integration with external biological databases.
-By preprocessing and structuring PDB data in this format, the system enhances data accessibility, supports downstream ML model training, and enables rapid querying of experimental conditions. This architecture is particularly suited for high-throughput structural bioinformatics pipelines and large-scale machine learning applications in computational biology and cheminformatics.**
+Designed for efficient querying, facilitating large-scale statistical analysis, metadata filtering, and integration with external biological databases.**
+
+**By preprocessing and structuring PDB data in this format, the system enhances data accessibility, supports downstream ML model training, and enables rapid querying of experimental conditions. This architecture is particularly suited for high-throughput structural bioinformatics pipelines and large-scale machine learning applications in computational biology and cheminformatics.**
+
 ---
 
 ## Installation
