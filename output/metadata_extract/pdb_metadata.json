@@ -1,0 +1,2032 @@
+[
+    {
+        "PDB_ID": "1a82",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "31-MAR-98",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "1azs",
+        "Resolution": "2.30",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "20-NOV-97",
+        "Organism": "CANIS LUPUS FAMILIARIS;"
+    },
+    {
+        "PDB_ID": "1ctq",
+        "Resolution": "1.26",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "20-AUG-99",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "1d2n",
+        "Resolution": "1.75",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "30-JUN-98",
+        "Organism": "CRICETULUS GRISEUS;"
+    },
+    {
+        "PDB_ID": "1ek0",
+        "Resolution": "1.48",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "06-MAR-00",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "1f2u",
+        "Resolution": "1.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "29-MAY-00",
+        "Organism": "PYROCOCCUS FURIOSUS;"
+    },
+    {
+        "PDB_ID": "1f5n",
+        "Resolution": "1.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "15-JUN-00",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "1g17",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-OCT-00",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "1ii0",
+        "Resolution": "2.40",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "20-APR-01",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "1ir3",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "22-SEP-97",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "1jbw",
+        "Resolution": "1.85",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "06-JUN-01",
+        "Organism": "LACTOBACILLUS CASEI;"
+    },
+    {
+        "PDB_ID": "1kaz",
+        "Resolution": "1.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "15-APR-96",
+        "Organism": "BOS TAURUS;"
+    },
+    {
+        "PDB_ID": "1kj8",
+        "Resolution": "1.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-DEC-01",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "1kk1",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "06-DEC-01",
+        "Organism": "PYROCOCCUS ABYSSI;"
+    },
+    {
+        "PDB_ID": "1ko5",
+        "Resolution": "2.28",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "20-DEC-01",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "1ksg",
+        "Resolution": "2.30",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-JAN-02",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "1ky2",
+        "Resolution": "1.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "02-FEB-02",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "1lp4",
+        "Resolution": "1.86",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "07-MAY-02",
+        "Organism": "ZEA MAYS;"
+    },
+    {
+        "PDB_ID": "1m7b",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "19-JUL-02",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "1mh1",
+        "Resolution": "1.38",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "21-JAN-97",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "1mmg",
+        "Resolution": "2.10",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "18-JUL-97",
+        "Organism": "DICTYOSTELIUM DISCOIDEUM;"
+    },
+    {
+        "PDB_ID": "1nn5",
+        "Resolution": "1.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "12-JAN-03",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "1nrj",
+        "Resolution": "1.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "24-JAN-03",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "1o3y",
+        "Resolution": "1.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "08-MAY-03",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "1o6y",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "21-OCT-02",
+        "Organism": "MYCOBACTERIUM TUBERCULOSIS;"
+    },
+    {
+        "PDB_ID": "1oxv",
+        "Resolution": "1.95",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "03-APR-03",
+        "Organism": "SULFOLOBUS SOLFATARICUS;"
+    },
+    {
+        "PDB_ID": "1pyx",
+        "Resolution": "2.40",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-JUL-03",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "1r0x",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "23-SEP-03",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "1r2q",
+        "Resolution": "1.05",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "29-SEP-03",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "1rj9",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "18-NOV-03",
+        "Organism": "THERMUS AQUATICUS;"
+    },
+    {
+        "PDB_ID": "1svm",
+        "Resolution": "1.94",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "29-MAR-04",
+        "Organism": "SIMIAN VIRUS 40;"
+    },
+    {
+        "PDB_ID": "1svs",
+        "Resolution": "1.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "29-MAR-04",
+        "Organism": "RATTUS NORVEGICUS;"
+    },
+    {
+        "PDB_ID": "1u8y",
+        "Resolution": "1.55",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-AUG-04",
+        "Organism": "SAGUINUS OEDIPUS;"
+    },
+    {
+        "PDB_ID": "1uke",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "07-JAN-98",
+        "Organism": "DICTYOSTELIUM DISCOIDEUM;"
+    },
+    {
+        "PDB_ID": "1upt",
+        "Resolution": "1.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "12-OCT-03",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "1v8k",
+        "Resolution": "2.25",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-JAN-04",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "1vfv",
+        "Resolution": "1.85",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "19-APR-04",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "1vg8",
+        "Resolution": "1.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "23-APR-04",
+        "Organism": "RATTUS NORVEGICUS;"
+    },
+    {
+        "PDB_ID": "1w5f",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "06-AUG-04",
+        "Organism": "THERMOTOGA MARITIMA;"
+    },
+    {
+        "PDB_ID": "1w5t",
+        "Resolution": "2.4",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-AUG-04",
+        "Organism": "AEROPYRUM PERNIX;"
+    },
+    {
+        "PDB_ID": "1w7a",
+        "Resolution": "2.27",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "31-AUG-04",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "1wc1",
+        "Resolution": "1.93",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "06-NOV-04",
+        "Organism": "SPIRULINA PLATENSIS;"
+    },
+    {
+        "PDB_ID": "1wf3",
+        "Resolution": "1.88",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "25-MAY-04",
+        "Organism": "THERMUS THERMOPHILUS;"
+    },
+    {
+        "PDB_ID": "1x3s",
+        "Resolution": "1.32",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-MAY-05",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "1xdn",
+        "Resolution": "1.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "07-SEP-04",
+        "Organism": "TRYPANOSOMA BRUCEI;"
+    },
+    {
+        "PDB_ID": "1xef",
+        "Resolution": "2.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-SEP-04",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "1xex",
+        "Resolution": "2.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-SEP-04",
+        "Organism": "PYROCOCCUS FURIOSUS;"
+    },
+    {
+        "PDB_ID": "1y8q",
+        "Resolution": "2.25",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-DEC-04",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "1yag",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-OCT-98",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "1ytm",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-FEB-05",
+        "Organism": "ANAEROBIOSPIRILLUM SUCCINICIPRODUCENS;"
+    },
+    {
+        "PDB_ID": "1yzl",
+        "Resolution": "1.85",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "28-FEB-05",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "1yzn",
+        "Resolution": "2.06",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "28-FEB-05",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "1z06",
+        "Resolution": "1.81",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "01-MAR-05",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "1z08",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "01-MAR-05",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "1z0j",
+        "Resolution": "1.32",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "01-MAR-05",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "1zm7",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-MAY-05",
+        "Organism": "DROSOPHILA MELANOGASTER;"
+    },
+    {
+        "PDB_ID": "2a5d",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "30-JUN-05",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2bek",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "25-NOV-04",
+        "Organism": "THERMUS THERMOPHILUS;"
+    },
+    {
+        "PDB_ID": "2bme",
+        "Resolution": "1.57",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-MAR-05",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2bvn",
+        "Resolution": "2.30",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "30-JUN-05",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "2c78",
+        "Resolution": "1.40",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "18-NOV-05",
+        "Organism": "THERMUS THERMOPHILUS;"
+    },
+    {
+        "PDB_ID": "2cbz",
+        "Resolution": "1.5",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-JAN-06",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2chg",
+        "Resolution": "2.1",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "14-MAR-06",
+        "Organism": "ARCHAEOGLOBUS FULGIDUS;"
+    },
+    {
+        "PDB_ID": "2d7c",
+        "Resolution": "1.75",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "16-NOV-05",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2db3",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "14-DEC-05",
+        "Organism": "DROSOPHILA MELANOGASTER;"
+    },
+    {
+        "PDB_ID": "2dy1",
+        "Resolution": "1.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-SEP-06",
+        "Organism": "THERMUS THERMOPHILUS;"
+    },
+    {
+        "PDB_ID": "2ew1",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "01-NOV-05",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2ffq",
+        "Resolution": "1.78",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "20-DEC-05",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2fh5",
+        "Resolution": "2.45",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "23-DEC-05",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2g6b",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "24-FEB-06",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2h57",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "25-MAY-06",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2hf9",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "23-JUN-06",
+        "Organism": "METHANOCALDOCOCCUS JANNASCHII;"
+    },
+    {
+        "PDB_ID": "2is4",
+        "Resolution": "2.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "16-OCT-06",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "2ixe",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "07-JUL-06",
+        "Organism": "RATTUS NORVEGICUS;"
+    },
+    {
+        "PDB_ID": "2iyw",
+        "Resolution": "1.85",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "22-JUL-06",
+        "Organism": "MYCOBACTERIUM TUBERCULOSIS;"
+    },
+    {
+        "PDB_ID": "2j0s",
+        "Resolution": "2.21",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-AUG-06",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2j7p",
+        "Resolution": "1.97",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "14-OCT-06",
+        "Organism": "THERMUS AQUATICUS;"
+    },
+    {
+        "PDB_ID": "2jdi",
+        "Resolution": "1.9",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-JAN-07",
+        "Organism": "BOS TAURUS;"
+    },
+    {
+        "PDB_ID": "2jg1",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "07-FEB-07",
+        "Organism": "STAPHYLOCOCCUS AUREUS;"
+    },
+    {
+        "PDB_ID": "2ocb",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "20-DEC-06",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2pvf",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-MAY-07",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2px0",
+        "Resolution": "3.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "14-MAY-07",
+        "Organism": "BACILLUS SUBTILIS;"
+    },
+    {
+        "PDB_ID": "2qq0",
+        "Resolution": "1.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "25-JUL-07",
+        "Organism": "THERMOTOGA MARITIMA;"
+    },
+    {
+        "PDB_ID": "2qt0",
+        "Resolution": "1.92",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "31-JUL-07",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2r75",
+        "Resolution": "1.40",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "07-SEP-07",
+        "Organism": "AQUIFEX AEOLICUS;"
+    },
+    {
+        "PDB_ID": "2r9v",
+        "Resolution": "2.10",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-SEP-07",
+        "Organism": "THERMOTOGA MARITIMA MSB8;"
+    },
+    {
+        "PDB_ID": "2v52",
+        "Resolution": "1.45",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "01-OCT-08",
+        "Organism": "ORYCTOLAGUS CUNICULUS;"
+    },
+    {
+        "PDB_ID": "2wic",
+        "Resolution": "2.05",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-MAY-09",
+        "Organism": "KLEBSIELLA PNEUMONIAE;"
+    },
+    {
+        "PDB_ID": "2wji",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "26-MAY-09",
+        "Organism": "METHANOCALDOCOCCUS JANNASCHII;"
+    },
+    {
+        "PDB_ID": "2xtn",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "11-OCT-10",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "2xtz",
+        "Resolution": "2.34",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-OCT-10",
+        "Organism": "ARABIDOPSIS THALIANA;"
+    },
+    {
+        "PDB_ID": "2y27",
+        "Resolution": "1.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-DEC-10",
+        "Organism": "BURKHOLDERIA CENOCEPACIA;"
+    },
+    {
+        "PDB_ID": "2y8e",
+        "Resolution": "1.39",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-FEB-11",
+        "Organism": "DROSOPHILA MELANOGASTER;"
+    },
+    {
+        "PDB_ID": "2ych",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "15-MAR-11",
+        "Organism": "THERMUS THERMOPHILUS;"
+    },
+    {
+        "PDB_ID": "3a1u",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "22-APR-09",
+        "Organism": "THERMOTOGA MARITIMA;"
+    },
+    {
+        "PDB_ID": "3a4l",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-JUL-09",
+        "Organism": "METHANOCALDOCOCCUS JANNASCHII;"
+    },
+    {
+        "PDB_ID": "3a5m",
+        "Resolution": "2.40",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-AUG-09",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3b1v",
+        "Resolution": "1.85",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "15-JUL-11",
+        "Organism": "STREPTOCOCCUS THERMOPHILUS;"
+    },
+    {
+        "PDB_ID": "3bb1",
+        "Resolution": "2.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-NOV-07",
+        "Organism": "PISUM SATIVUM;"
+    },
+    {
+        "PDB_ID": "3bb4",
+        "Resolution": "2.85",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-NOV-07",
+        "Organism": "ARABIDOPSIS THALIANA;"
+    },
+    {
+        "PDB_ID": "3bc1",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "12-NOV-07",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "3c4w",
+        "Resolution": "2.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "30-JAN-08",
+        "Organism": "BOS TAURUS;"
+    },
+    {
+        "PDB_ID": "3c5h",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "31-JAN-08",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3cx8",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "23-APR-08",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "3d2f",
+        "Resolution": "2.30",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "08-MAY-08",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "3day",
+        "Resolution": "1.95",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "30-MAY-08",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3e5h",
+        "Resolution": "1.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-AUG-08",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3eth",
+        "Resolution": "1.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "08-OCT-08",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "3ewa",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "14-OCT-08",
+        "Organism": "METHANOCOCCUS MARIPALUDIS;"
+    },
+    {
+        "PDB_ID": "3fht",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-DEC-08",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3fkq",
+        "Resolution": "2.10",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "17-DEC-08",
+        "Organism": "EUBACTERIUM RECTALE;"
+    },
+    {
+        "PDB_ID": "3ftq",
+        "Resolution": "2.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-JAN-09",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "3g5a",
+        "Resolution": "1.95",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-FEB-09",
+        "Organism": "CANDIDA GLABRATA;"
+    },
+    {
+        "PDB_ID": "3gpl",
+        "Resolution": "2.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "23-MAR-09",
+        "Organism": "DEINOCOCCUS RADIODURANS R1;"
+    },
+    {
+        "PDB_ID": "3hxx",
+        "Resolution": "2.11",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "22-JUN-09",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "3i5x",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "06-JUL-09",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "3ie7",
+        "Resolution": "1.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "22-JUL-09",
+        "Organism": "LISTERIA INNOCUA;"
+    },
+    {
+        "PDB_ID": "3iev",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "23-JUL-09",
+        "Organism": "AQUIFEX AEOLICUS;"
+    },
+    {
+        "PDB_ID": "3iqw",
+        "Resolution": "3.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "21-AUG-09",
+        "Organism": "CHAETOMIUM THERMOPHILUM;"
+    },
+    {
+        "PDB_ID": "3kkp",
+        "Resolution": "1.35",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "06-NOV-09",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "3llu",
+        "Resolution": "1.40",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "29-JAN-10",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3loo",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-FEB-10",
+        "Organism": "ANOPHELES GAMBIAE;"
+    },
+    {
+        "PDB_ID": "3m1i",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "05-MAR-10",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "3mey",
+        "Resolution": "2.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "01-APR-10",
+        "Organism": "BRADYRHIZOBIUM JAPONICUM;"
+    },
+    {
+        "PDB_ID": "3nem",
+        "Resolution": "1.89",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-JUN-10",
+        "Organism": "THERMOCOCCUS KODAKARENSIS;"
+    },
+    {
+        "PDB_ID": "3nkv",
+        "Resolution": "1.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "21-JUN-10",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3ntu",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "05-JUL-10",
+        "Organism": "METHANOCOCCUS VOLTAE;"
+    },
+    {
+        "PDB_ID": "3oes",
+        "Resolution": "2.30",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-AUG-10",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3q3j",
+        "Resolution": "1.97",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "21-DEC-10",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3q72",
+        "Resolution": "1.66",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-JAN-11",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3q85",
+        "Resolution": "1.76",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "06-JAN-11",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "3q9l",
+        "Resolution": "2.34",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "08-JAN-11",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "3qf7",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "21-JAN-11",
+        "Organism": "THERMOTOGA MARITIMA;"
+    },
+    {
+        "PDB_ID": "3qxc",
+        "Resolution": "1.34",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "01-MAR-11",
+        "Organism": "HELICOBACTER PYLORI;"
+    },
+    {
+        "PDB_ID": "3r7w",
+        "Resolution": "2.77",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "23-MAR-11",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "3rab",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "16-NOV-98",
+        "Organism": "RATTUS NORVEGICUS;"
+    },
+    {
+        "PDB_ID": "3rap",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "31-MAY-99",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3reg",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-APR-11",
+        "Organism": "ENTAMOEBA HISTOLYTICA;"
+    },
+    {
+        "PDB_ID": "3rlf",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "19-APR-11",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "3rwm",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-MAY-11",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "3ryh",
+        "Resolution": "2.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "11-MAY-11",
+        "Organism": "OVIS ARIES;"
+    },
+    {
+        "PDB_ID": "3sea",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-JUN-11",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3t1q",
+        "Resolution": "2.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "22-JUL-11",
+        "Organism": "THERMUS THERMOPHILUS;"
+    },
+    {
+        "PDB_ID": "3t9a",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "02-AUG-11",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3tm0",
+        "Resolution": "2.10",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "30-AUG-11",
+        "Organism": "ENTEROCOCCUS FAECALIS;"
+    },
+    {
+        "PDB_ID": "3tso",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-SEP-11",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3uie",
+        "Resolution": "1.79",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-NOV-11",
+        "Organism": "ARABIDOPSIS THALIANA;"
+    },
+    {
+        "PDB_ID": "3umo",
+        "Resolution": "1.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "14-NOV-11",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "3vx4",
+        "Resolution": "2.69",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "11-SEP-12",
+        "Organism": "STREPTOCOCCUS MUTANS;"
+    },
+    {
+        "PDB_ID": "3w6o",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "17-FEB-13",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "3wgm",
+        "Resolution": "2.09",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "06-AUG-13",
+        "Organism": "STAPHYLOCOCCUS AUREUS;"
+    },
+    {
+        "PDB_ID": "3wjp",
+        "Resolution": "1.53",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "14-OCT-13",
+        "Organism": "THERMOCOCCUS KODAKARENSIS;"
+    },
+    {
+        "PDB_ID": "3wry",
+        "Resolution": "2.30",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "27-FEB-14",
+        "Organism": "SOLANUM LYCOPERSICUM;"
+    },
+    {
+        "PDB_ID": "3wt0",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "31-MAR-14",
+        "Organism": "STAPHYLOCOCCUS AUREUS;"
+    },
+    {
+        "PDB_ID": "3wxm",
+        "Resolution": "2.30",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-AUG-14",
+        "Organism": "AEROPYRUM PERNIX K1;"
+    },
+    {
+        "PDB_ID": "3x1x",
+        "Resolution": "1.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "02-DEC-14",
+        "Organism": "RATTUS NORVEGICUS;"
+    },
+    {
+        "PDB_ID": "3zfd",
+        "Resolution": "1.71",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "11-DEC-12",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "3zia",
+        "Resolution": "2.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "07-JAN-13",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "3zyc",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "22-AUG-11",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "4a62",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "31-OCT-11",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "4bas",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "15-SEP-12",
+        "Organism": "TRYPANOSOMA BRUCEI TREU927;"
+    },
+    {
+        "PDB_ID": "4bqz",
+        "Resolution": "2.05",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "03-JUN-13",
+        "Organism": "RATTUS NORVEGICUS;"
+    },
+    {
+        "PDB_ID": "4brg",
+        "Resolution": "1.45",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-JUN-13",
+        "Organism": "LEGIONELLA PNEUMOPHILA;"
+    },
+    {
+        "PDB_ID": "4bzx",
+        "Resolution": "1.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "30-JUL-13",
+        "Organism": "MYCOBACTERIUM TUBERCULOSIS;"
+    },
+    {
+        "PDB_ID": "4c30",
+        "Resolution": "3.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "21-AUG-13",
+        "Organism": "DEINOCOCCUS RADIODURANS;"
+    },
+    {
+        "PDB_ID": "4c5c",
+        "Resolution": "1.40",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-SEP-13",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "4cei",
+        "Resolution": "2.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "11-NOV-13",
+        "Organism": "BACILLUS SUBTILIS SUBSP. SUBTILIS STR. 168;"
+    },
+    {
+        "PDB_ID": "4cs4",
+        "Resolution": "1.35",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-MAR-14",
+        "Organism": "METHANOSARCINA MAZEI;"
+    },
+    {
+        "PDB_ID": "4cw7",
+        "Resolution": "2.46",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "01-APR-14",
+        "Organism": "PYROCOCCUS ABYSSI GE5;"
+    },
+    {
+        "PDB_ID": "4czj",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "19-APR-14",
+        "Organism": "CAULOBACTER VIBRIOIDES;"
+    },
+    {
+        "PDB_ID": "4d0g",
+        "Resolution": "2.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "25-APR-14",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "4d25",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "07-MAY-14",
+        "Organism": "BOMBYX MORI;"
+    },
+    {
+        "PDB_ID": "4d6p",
+        "Resolution": "1.48",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-NOV-14",
+        "Organism": "PYROCOCCUS FURIOSUS;"
+    },
+    {
+        "PDB_ID": "4dfx",
+        "Resolution": "1.35",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "24-JAN-12",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "4ehu",
+        "Resolution": "1.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-APR-12",
+        "Organism": "CLOSTRIDIUM DIFFICILE;"
+    },
+    {
+        "PDB_ID": "4fo0",
+        "Resolution": "2.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "20-JUN-12",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "4gt3",
+        "Resolution": "1.68",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "28-AUG-12",
+        "Organism": "RATTUS NORVEGICUS;"
+    },
+    {
+        "PDB_ID": "4gxr",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-SEP-12",
+        "Organism": "RHODOPSEUDOMONAS PALUSTRIS, BURKHOLDERIA"
+    },
+    {
+        "PDB_ID": "4hat",
+        "Resolution": "1.78",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "27-SEP-12",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "4hvc",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "06-NOV-12",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "4idn",
+        "Resolution": "2.25",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "12-DEC-12",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "4jne",
+        "Resolution": "1.96",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "15-MAR-13",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "4js0",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "22-MAR-13",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "4k33",
+        "Resolution": "2.34",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-APR-13",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "4kfu",
+        "Resolution": "1.89",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "27-APR-13",
+        "Organism": "SULFOLOBUS TURRETED ICOSAHEDRAL VIRUS 2;"
+    },
+    {
+        "PDB_ID": "4ko8",
+        "Resolution": "1.98",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "11-MAY-13",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "4kva",
+        "Resolution": "2.14",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "22-MAY-13",
+        "Organism": "SCHISTOSOMA MANSONI;"
+    },
+    {
+        "PDB_ID": "4lhw",
+        "Resolution": "1.55",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "01-JUL-13",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "4lj9",
+        "Resolution": "1.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-JUL-13",
+        "Organism": "THERMUS THERMOPHILUS;"
+    },
+    {
+        "PDB_ID": "4m9q",
+        "Resolution": "2.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "15-AUG-13",
+        "Organism": "CHLAMYDOMONAS REINHARDTII;"
+    },
+    {
+        "PDB_ID": "4mit",
+        "Resolution": "2.35",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "02-SEP-13",
+        "Organism": "ENTAMOEBA HISTOLYTICA;"
+    },
+    {
+        "PDB_ID": "4mkf",
+        "Resolution": "1.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "05-SEP-13",
+        "Organism": "BACILLUS SUBTILIS;"
+    },
+    {
+        "PDB_ID": "4ohy",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "18-JAN-14",
+        "Organism": "CAENORHABDITIS ELEGANS;"
+    },
+    {
+        "PDB_ID": "4oi4",
+        "Resolution": "2.40",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "18-JAN-14",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "4pu5",
+        "Resolution": "1.83",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "12-MAR-14",
+        "Organism": "SHEWANELLA ONEIDENSIS;"
+    },
+    {
+        "PDB_ID": "4qbg",
+        "Resolution": "1.37",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "08-MAY-14",
+        "Organism": "BACILLUS SUBTILIS;"
+    },
+    {
+        "PDB_ID": "4qbi",
+        "Resolution": "1.67",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "08-MAY-14",
+        "Organism": "GEOBACILLUS STEAROTHERMOPHILUS;"
+    },
+    {
+        "PDB_ID": "4qc2",
+        "Resolution": "2.22",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-MAY-14",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "4qm6",
+        "Resolution": "1.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "15-JUN-14",
+        "Organism": "RUMINICLOSTRIDIUM THERMOCELLUM;"
+    },
+    {
+        "PDB_ID": "4qml",
+        "Resolution": "1.88",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "16-JUN-14",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "4rd4",
+        "Resolution": "1.30",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "18-SEP-14",
+        "Organism": "SULFOLOBUS SOLFATARICUS;"
+    },
+    {
+        "PDB_ID": "4rke",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-OCT-14",
+        "Organism": "DROSOPHILA MELANOGASTER;"
+    },
+    {
+        "PDB_ID": "4rkf",
+        "Resolution": "1.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-OCT-14",
+        "Organism": "DROSOPHILA MELANOGASTER;"
+    },
+    {
+        "PDB_ID": "4s35",
+        "Resolution": "1.55",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "26-JAN-15",
+        "Organism": "AQUIFEX AEOLICUS;"
+    },
+    {
+        "PDB_ID": "4tl6",
+        "Resolution": "1.76",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "29-MAY-14",
+        "Organism": "SYNECHOCOCCUS ELONGATUS (STRAIN PCC 7942);"
+    },
+    {
+        "PDB_ID": "4tmx",
+        "Resolution": "1.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "02-JUN-14",
+        "Organism": "CHAETOMIUM THERMOPHILUM;"
+    },
+    {
+        "PDB_ID": "4u5x",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "25-JUL-14",
+        "Organism": "ORYZA SATIVA SUBSP. JAPONICA;"
+    },
+    {
+        "PDB_ID": "4v0l",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "17-SEP-14",
+        "Organism": "CHLAMYDOMONAS REINHARDTII;"
+    },
+    {
+        "PDB_ID": "4w5j",
+        "Resolution": "1.65",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "18-AUG-14",
+        "Organism": "STREPTOCOCCUS PNEUMONIAE D39;"
+    },
+    {
+        "PDB_ID": "4wh3",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "19-SEP-14",
+        "Organism": "BIFIDOBACTERIUM LONGUM SUBSP. LONGUM JCM 1217;"
+    },
+    {
+        "PDB_ID": "4wza",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "19-NOV-14",
+        "Organism": "AZOTOBACTER VINELANDII;"
+    },
+    {
+        "PDB_ID": "4xvu",
+        "Resolution": "2.35",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "28-JAN-15",
+        "Organism": "SACCHAROMYCES CEREVISIAE (ATCC 204508 / S288C);"
+    },
+    {
+        "PDB_ID": "4yb7",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "18-FEB-15",
+        "Organism": "CAMPYLOBACTER JEJUNI (STRAIN RM1221);"
+    },
+    {
+        "PDB_ID": "4ydq",
+        "Resolution": "2.30",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "23-FEB-15",
+        "Organism": "PLASMODIUM FALCIPARUM;"
+    },
+    {
+        "PDB_ID": "4z51",
+        "Resolution": "1.86",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "02-APR-15",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "4zdj",
+        "Resolution": "1.99",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "17-APR-15",
+        "Organism": "MYCOBACTERIUM TUBERCULOSIS (STRAIN ATCC 25618 /"
+    },
+    {
+        "PDB_ID": "4zi3",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "27-APR-15",
+        "Organism": "MUS MUSCULUS;"
+    },
+    {
+        "PDB_ID": "4zke",
+        "Resolution": "2.25",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "30-APR-15",
+        "Organism": "SACCHAROMYCES CEREVISIAE;"
+    },
+    {
+        "PDB_ID": "5auo",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "27-MAY-15",
+        "Organism": "THERMOCOCCUS KODAKARAENSIS (STRAIN ATCC BAA-918"
+    },
+    {
+        "PDB_ID": "5bsm",
+        "Resolution": "2.32",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "02-JUN-15",
+        "Organism": "NICOTIANA TABACUM;"
+    },
+    {
+        "PDB_ID": "5byl",
+        "Resolution": "2.15",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-JUN-15",
+        "Organism": "STAPHYLOCOCCUS AUREUS;"
+    },
+    {
+        "PDB_ID": "5d6j",
+        "Resolution": "2.25",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "12-AUG-15",
+        "Organism": "MYCOBACTERIUM SMEGMATIS (STRAIN ATCC 700084 /"
+    },
+    {
+        "PDB_ID": "5dac",
+        "Resolution": "2.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "19-AUG-15",
+        "Organism": "CHAETOMIUM THERMOPHILUM VAR. THERMOPHILUM DSM"
+    },
+    {
+        "PDB_ID": "5dd7",
+        "Resolution": "1.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "24-AUG-15",
+        "Organism": "ACINETOBACTER BAUMANNII;"
+    },
+    {
+        "PDB_ID": "5de3",
+        "Resolution": "1.42",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "25-AUG-15",
+        "Organism": "CHLAMYDOMONAS REINHARDTII;"
+    },
+    {
+        "PDB_ID": "5e3i",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "02-OCT-15",
+        "Organism": "ACINETOBACTER BAUMANNII;"
+    },
+    {
+        "PDB_ID": "5etv",
+        "Resolution": "1.72",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "18-NOV-15",
+        "Organism": "STAPHYLOCOCCUS AUREUS;"
+    },
+    {
+        "PDB_ID": "5f2r",
+        "Resolution": "2.15",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "02-DEC-15",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "5gof",
+        "Resolution": "1.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "26-JUL-16",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "5h68",
+        "Resolution": "1.98",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "11-NOV-16",
+        "Organism": "GEOBACILLUS STEAROTHERMOPHILUS 10;"
+    },
+    {
+        "PDB_ID": "5ie2",
+        "Resolution": "1.85",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "24-FEB-16",
+        "Organism": "ARABIDOPSIS THALIANA;"
+    },
+    {
+        "PDB_ID": "5if9",
+        "Resolution": "1.80",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "25-FEB-16",
+        "Organism": "MYCOBACTERIUM SMEGMATIS;"
+    },
+    {
+        "PDB_ID": "5irr",
+        "Resolution": "2.04",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "14-MAR-16",
+        "Organism": "CHLAMYDOMONAS REINHARDTII;"
+    },
+    {
+        "PDB_ID": "5izl",
+        "Resolution": "2.72",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "25-MAR-16",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "5j1j",
+        "Resolution": "1.55",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "29-MAR-16",
+        "Organism": "PSEUDOMONAS AERUGINOSA PAO1;"
+    },
+    {
+        "PDB_ID": "5j1s",
+        "Resolution": "1.40",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "29-MAR-16",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "5k8t",
+        "Resolution": "1.85",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "31-MAY-16",
+        "Organism": "ZIKA VIRUS;"
+    },
+    {
+        "PDB_ID": "5l3r",
+        "Resolution": "2.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "24-MAY-16",
+        "Organism": "ARABIDOPSIS THALIANA;"
+    },
+    {
+        "PDB_ID": "5l3s",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "24-MAY-16",
+        "Organism": "SULFOLOBUS SOLFATARICUS (STRAIN ATCC 35092 /"
+    },
+    {
+        "PDB_ID": "5oea",
+        "Resolution": "3.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "07-JUL-17",
+        "Organism": "DEEP-SEA THERMOPHILIC PHAGE D6E;"
+    },
+    {
+        "PDB_ID": "5oiu",
+        "Resolution": "2.44",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "19-JUL-17",
+        "Organism": "THERMUS THERMOPHILUS HB8;"
+    },
+    {
+        "PDB_ID": "5szj",
+        "Resolution": "2.66",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "14-AUG-16",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "5tfj",
+        "Resolution": "1.85",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "25-SEP-16",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "5tky",
+        "Resolution": "2.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-OCT-16",
+        "Organism": "CHAETOMIUM THERMOPHILUM (STRAIN DSM 1495 / CBS"
+    },
+    {
+        "PDB_ID": "5tsh",
+        "Resolution": "2.30",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "28-OCT-16",
+        "Organism": "GEOBACTER METALLIREDUCENS (STRAIN GS-15 / ATCC"
+    },
+    {
+        "PDB_ID": "5tt6",
+        "Resolution": "2.19",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "01-NOV-16",
+        "Organism": "ENTEROBACTERIA PHAGE T4;"
+    },
+    {
+        "PDB_ID": "5wdr",
+        "Resolution": "1.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "05-JUL-17",
+        "Organism": "SALPINGOECA ROSETTA;"
+    },
+    {
+        "PDB_ID": "5x8b",
+        "Resolution": "1.39",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "01-MAR-17",
+        "Organism": "THERMUS THERMOPHILUS (STRAIN HB8 / ATCC 27634 /"
+    },
+    {
+        "PDB_ID": "5xc5",
+        "Resolution": "1.40",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "22-MAR-17",
+        "Organism": "ACANTHAMOEBA POLYPHAGA MIMIVIRUS;"
+    },
+    {
+        "PDB_ID": "5xii",
+        "Resolution": "2.17",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "26-APR-17",
+        "Organism": "TOXOPLASMA GONDII (STRAIN ATCC 50611 / ME49);"
+    },
+    {
+        "PDB_ID": "5xr7",
+        "Resolution": "2.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "07-JUN-17",
+        "Organism": "ARABIDOPSIS THALIANA;"
+    },
+    {
+        "PDB_ID": "5zbr",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "12-FEB-18",
+        "Organism": "RATTUS NORVEGICUS;"
+    },
+    {
+        "PDB_ID": "5zc9",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "16-FEB-18",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "5ze9",
+        "Resolution": "2.10",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "27-FEB-18",
+        "Organism": "ENTEROCOCCUS HIRAE (STRAIN ATCC 9790 / DSM"
+    },
+    {
+        "PDB_ID": "5znj",
+        "Resolution": "1.84",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-APR-18",
+        "Organism": "STAPHYLOCOCCUS AUREUS;"
+    },
+    {
+        "PDB_ID": "6a3a",
+        "Resolution": "2.30",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "15-JUN-18",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "6a6m",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "28-JUN-18",
+        "Organism": "CYANIDIOSCHYZON MEROLAE STRAIN 10D;"
+    },
+    {
+        "PDB_ID": "6at2",
+        "Resolution": "1.44",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "27-AUG-17",
+        "Organism": "ESCHERICHIA COLI (STRAIN K12);"
+    },
+    {
+        "PDB_ID": "6awh",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "05-SEP-17",
+        "Organism": "STAPHYLOCOCCUS AUREUS;"
+    },
+    {
+        "PDB_ID": "6b3v",
+        "Resolution": "1.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "25-SEP-17",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "6bcb",
+        "Resolution": "1.40",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "20-OCT-17",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "6bs4",
+        "Resolution": "2.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "01-DEC-17",
+        "Organism": "MYCOBACTERIUM TUBERCULOSIS H37RV;"
+    },
+    {
+        "PDB_ID": "6cau",
+        "Resolution": "2.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "31-JAN-18",
+        "Organism": "ACINETOBACTER BAUMANNII;"
+    },
+    {
+        "PDB_ID": "6ci7",
+        "Resolution": "2.30",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "23-FEB-18",
+        "Organism": "METHANOPYRUS KANDLERI (STRAIN AV19 / DSM 6324 /"
+    },
+    {
+        "PDB_ID": "6cve",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "28-MAR-18",
+        "Organism": "MYCOBACTERIUM TUBERCULOSIS (STRAIN ATCC 25618 /"
+    },
+    {
+        "PDB_ID": "6d71",
+        "Resolution": "1.72",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "23-APR-18",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "6def",
+        "Resolution": "2.26",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "11-MAY-18",
+        "Organism": "CHAETOMIUM THERMOPHILUM;"
+    },
+    {
+        "PDB_ID": "6dwd",
+        "Resolution": "1.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "26-JUN-18",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "6e6c",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "24-JUL-18",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "6efx",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "17-AUG-18",
+        "Organism": "CRYPTOCOCCUS NEOFORMANS VAR. GRUBII SEROTYPE A"
+    },
+    {
+        "PDB_ID": "6ff8",
+        "Resolution": "2.13",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-JAN-18",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "6h17",
+        "Resolution": "1.28",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "11-JUL-18",
+        "Organism": "MYXOCOCCUS XANTHUS DK 1622;"
+    },
+    {
+        "PDB_ID": "6h2j",
+        "Resolution": "2.60",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-JUL-18",
+        "Organism": "ESCHERICHIA COLI;"
+    },
+    {
+        "PDB_ID": "6hdu",
+        "Resolution": "1.79",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "19-AUG-18",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "6hph",
+        "Resolution": "1.13",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "20-SEP-18",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "6if3",
+        "Resolution": "1.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "18-SEP-18",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "6iub",
+        "Resolution": "1.90",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "28-NOV-18",
+        "Organism": "HELICOBACTER PYLORI (STRAIN ATCC 700392 /"
+    },
+    {
+        "PDB_ID": "6j17",
+        "Resolution": "1.98",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "28-DEC-18",
+        "Organism": "MYCOBACTERIUM TUBERCULOSIS (STRAIN ATCC 25618 /"
+    },
+    {
+        "PDB_ID": "6j18",
+        "Resolution": "2.00",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "28-DEC-18",
+        "Organism": "MYCOBACTERIUM TUBERCULOSIS (STRAIN ATCC 25618 /"
+    },
+    {
+        "PDB_ID": "6j19",
+        "Resolution": "1.98",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "28-DEC-18",
+        "Organism": "MYCOBACTERIUM TUBERCULOSIS (STRAIN ATCC 25618 /"
+    },
+    {
+        "PDB_ID": "6j72",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "16-JAN-19",
+        "Organism": "MYCOLICIBACTERIUM SMEGMATIS MC2 155;"
+    },
+    {
+        "PDB_ID": "6jd5",
+        "Resolution": "2.20",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "31-JAN-19",
+        "Organism": "MYCOBACTERIUM TUBERCULOSIS (STRAIN ATCC 25618 /"
+    },
+    {
+        "PDB_ID": "6mq9",
+        "Resolution": "1.86",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "09-OCT-18",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "6nop",
+        "Resolution": "1.70",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "16-JAN-19",
+        "Organism": "CYANOTHECE;"
+    },
+    {
+        "PDB_ID": "6p80",
+        "Resolution": "1.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "06-JUN-19",
+        "Organism": "ESCHERICHIA COLI MS 115-1;"
+    },
+    {
+        "PDB_ID": "6s6d",
+        "Resolution": "2.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "02-JUL-19",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "6s8k",
+        "Resolution": "1.52",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "10-JUL-19",
+        "Organism": "BOS TAURUS;"
+    },
+    {
+        "PDB_ID": "6sge",
+        "Resolution": "1.50",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "04-AUG-19",
+        "Organism": "HOMO SAPIENS;"
+    },
+    {
+        "PDB_ID": "6u03",
+        "Resolution": "1.85",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-AUG-19",
+        "Organism": "CANDIDA ALBICANS (STRAIN SC5314 / ATCC MYA-"
+    },
+    {
+        "PDB_ID": "6uyh",
+        "Resolution": "1.75",
+        "Experiment_Type": "X-RAY DIFFRACTION",
+        "Deposition_Date": "13-NOV-19",
+        "Organism": "NAEGLERIA FOWLERI;"
+    }
+]
